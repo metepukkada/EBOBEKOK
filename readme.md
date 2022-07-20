@@ -1,0 +1,1 @@
+# Girilen Sayıları Büyük Veya Küçük Fark Etmeksizin EBOB Ve EKOK'larını Bulan Program.
